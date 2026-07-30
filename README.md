@@ -136,8 +136,7 @@ Caso isso não ocorra, serão avaliadas outras arquiteturas de aprendizado profu
 
 - Redes Neurais Convolucionais (CNN);
 - Redes Neurais Recorrentes (RNN/LSTM);
-- Graph Neural Networks (GNN);
-- Modelos baseados em Transformers.
+- Graph Neural Networks (GNN).
 
 ---
 
@@ -151,6 +150,7 @@ Caso isso não ocorra, serão avaliadas outras arquiteturas de aprendizado profu
 - MNE-Python
 - Matplotlib
 - Google Colab
+- MATLAB
 
 ---
 
